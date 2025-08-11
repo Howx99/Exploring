@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fc3592484f4acc3b",
+        "id": "4a7141ad32b310b6",
         "type": "tabs",
         "children": [
           {
-            "id": "9981300542c7f6af",
+            "id": "537b10c222b48853",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-latex-suite/main.js",
-                "bFile": ".obsidian/plugins/obsidian-latex-suite/main.js",
-                "aRef": ""
+                "file": "Information theory/1-basic notions.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: main.js"
+              "icon": "lucide-file",
+              "title": "1-basic notions"
             }
           }
         ]
@@ -140,12 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Information theory/1-basic notions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "1-basic notions 的大纲"
             }
           },
           {
@@ -176,7 +177,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9981300542c7f6af",
+  "active": "537b10c222b48853",
   "lastOpenFiles": [
     "Information theory/1-basic notions.md",
     "Information theory"
